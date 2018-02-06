@@ -3,4 +3,4 @@
 require_relative '../config/environment'
 
 puts "Hi, welcome to Tic-tac-toe!"
-puts " Would you like to play 0, 1 or a 2 player game "
+puts "Would you like to play 0, 1 or a 2 player game "
