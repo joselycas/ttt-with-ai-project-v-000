@@ -3,3 +3,4 @@
 require_relative '../config/environment'
 
 puts "Hi, welcome to Tic-tac-toe!"
+Game.new
