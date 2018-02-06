@@ -54,7 +54,7 @@ class Game
     user_input = current_player.move(@board)
     if @board.update(user_input, current_player)
     elsif @board.valid_move?(@board)
-      user_input
+      else user_input
     end
   end
 
