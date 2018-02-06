@@ -62,7 +62,7 @@ class Game
     turn until over?
        if won?
          puts "Congratulations #{winner(board)}!"
-       elsif draw?(board = nil)
+       elsif draw?
          puts "Cat's Game!"
        end
   end
